@@ -1,2 +1,2 @@
-# Dual background-color generator ;) 
+# Dual-color background generator ;) 
 
