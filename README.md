@@ -1,2 +1,2 @@
-# Random-Generator
-Dual background-color generator ;) 
+# Dual background-color generator ;) 
+
