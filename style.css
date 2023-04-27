@@ -1,6 +1,6 @@
 html {
     height: 100%;
-  }
+}
   
 body {
     font: 'Raleway', sans-serif;
@@ -44,7 +44,7 @@ span {
     font-size: 1rem;
     font-weight: normal;
     font-family: monospace;
-  }
+}
 
 #btnrandom{
     background-color: #4CAF50; /* Green */
