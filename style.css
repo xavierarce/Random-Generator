@@ -13,9 +13,16 @@ body {
     background-size: 101% 100%;
     /* background-attachment: fixed; */
 }
+
+@media (max-width: 768px) {
+    h1 {
+      font-size: 2em; /* adjust this value as needed */
+    }
+}
+  
   
 h1 {
-    font: 600 'Raleway', sans-serif;
+    font: 600 2em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
