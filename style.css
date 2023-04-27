@@ -5,7 +5,10 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-    background: linear-gradient(to right, lightslategray , pink) no-repeat center fixed;
+    background: linear-gradient(to right, lightslategray , pink);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 h1 {
